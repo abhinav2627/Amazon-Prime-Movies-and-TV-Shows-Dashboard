@@ -6,7 +6,7 @@ Welcome to the Amazon Prime Movies and TV Shows Dashboard! This Tableau dashboar
 The dataset used for this dashboard contains comprehensive listings of all the movies and TV shows available on Amazon Prime Video. Here are some key details about the dataset:
 
 1. Source: The data is sourced directly from Amazon Prime, one of the most popular media and video streaming platforms globally.
-2. 
+   
 2.Content: The dataset includes information such as titles, cast, directors, ratings, release year, duration, and more.
 
 3.Size: There are close to 10,000 entries in the dataset, reflecting the extensive library of content offered by Amazon Prime.
